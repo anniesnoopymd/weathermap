@@ -1,5 +1,5 @@
 # weathermap
-Weather map with Vue.js and jQuery.<br>
+Weather map using Vue.js and jQuery.<br>
 It will show the city's name, minimum temperature, maximum temperature and weather when the pointer hover over the city.<br>
 DEMO:https://anniesnoopymd.github.io/weathermap/weathermap.html<br>
 

@@ -4,6 +4,7 @@
 
 svg {
   height: 100vh;
+  margin-left: 150px;
 }
 
 body {
@@ -25,7 +26,7 @@ path:hover {
 
 .title_area {
   position: absolute;
-  right: 500px;
+  right: 400px;
   top: 120px;
   color: white;
   font-size: 30px;
